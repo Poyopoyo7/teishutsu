@@ -1,4 +1,4 @@
-package teishutsu;
+package sample;
 
 public class SelfIntroduction {
 	public static void main(String[] args) {
